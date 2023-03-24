@@ -49,4 +49,5 @@ public class Rectangle {
     public double getPerimeter() {
         return 2 * (width + height);
     }
+    // comment
 }
